@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "1. От списка ребер к матрице смежности"
-permalink: /dsa-notes/problems/problem-1/
+permalink: /oi-notes/problems/problem-1/
 lang: ru
 contest: bp2025-dfs1
 problem_code: A
@@ -67,7 +67,7 @@ for (int i = 0; i < n; ++i) {
 ### Mentioned by
 
 <!-- dsa-mentioned-by:start -->
-- [DFS1 — параллель B'](/dsa-notes/bp2025/contests/dfs1/){: .dsa-mention } — A: 1. От списка ребер к матрице смежности
-- [Каталог задач](/dsa-notes/problems/){: .dsa-mention } — A: 1. От списка ребер к матрице смежности
+- [DFS1 — параллель B'](../../../bp2025/contests/dfs1/){: .dsa-mention } — A: 1. От списка ребер к матрице смежности
+- [Каталог задач](../../../problems/){: .dsa-mention } — A: 1. От списка ребер к матрице смежности
 <!-- dsa-mentioned-by:end -->
 

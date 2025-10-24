@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "DFS1 — параллель B'"
-permalink: /dsa-notes/bp2025/contests/dfs1/
+permalink: /oi-notes/bp2025/contests/dfs1/
 lang: ru
 ---
 
@@ -27,6 +27,6 @@ lang: ru
 ### Mentioned by
 
 <!-- dsa-mentioned-by:start -->
-- [Параллель B' — разборы контестов](/dsa-notes/bp2025/contests/){: .dsa-mention } — DFS: введение
+- [Параллель B' — разборы контестов](../../../bp2025/contests/){: .dsa-mention } — DFS: введение
 <!-- dsa-mentioned-by:end -->
 

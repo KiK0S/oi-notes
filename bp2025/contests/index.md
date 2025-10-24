@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Параллель B' — разборы контестов"
-permalink: /dsa-notes/bp2025/contests/
+permalink: /oi-notes/bp2025/contests/
 lang: ru
 ---
 

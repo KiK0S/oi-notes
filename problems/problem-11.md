@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "11. Свинки-копилки"
-permalink: /dsa-notes/problems/problem-11/
+permalink: /oi-notes/problems/problem-11/
 lang: ru
 contest: bp2025-dfs1
 problem_code: K
@@ -49,7 +49,7 @@ problem_id: 11
 ### Mentioned by
 
 <!-- dsa-mentioned-by:start -->
-- [DFS1 — параллель B'](/dsa-notes/bp2025/contests/dfs1/){: .dsa-mention } — K: 11. Свинки-копилки
-- [Каталог задач](/dsa-notes/problems/){: .dsa-mention } — K: 11. Свинки-копилки
+- [DFS1 — параллель B'](../../../bp2025/contests/dfs1/){: .dsa-mention } — K: 11. Свинки-копилки
+- [Каталог задач](../../../problems/){: .dsa-mention } — K: 11. Свинки-копилки
 <!-- dsa-mentioned-by:end -->
 

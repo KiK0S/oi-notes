@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Каталог задач"
-permalink: /dsa-notes/problems/
+permalink: /oi-notes/problems/
 lang: ru
 ---
 

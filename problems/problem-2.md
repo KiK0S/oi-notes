@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "2. Компоненты связности"
-permalink: /dsa-notes/problems/problem-2/
+permalink: /oi-notes/problems/problem-2/
 lang: ru
 contest: bp2025-dfs1
 problem_code: B
@@ -77,7 +77,7 @@ for (int v = 1; v <= n; ++v) if (!used[v]) {
 ### Mentioned by
 
 <!-- dsa-mentioned-by:start -->
-- [DFS1 — параллель B'](/dsa-notes/bp2025/contests/dfs1/){: .dsa-mention } — B: 2. Компоненты связности
-- [Каталог задач](/dsa-notes/problems/){: .dsa-mention } — B: 2. Компоненты связности
+- [DFS1 — параллель B'](../../../bp2025/contests/dfs1/){: .dsa-mention } — B: 2. Компоненты связности
+- [Каталог задач](../../../problems/){: .dsa-mention } — B: 2. Компоненты связности
 <!-- dsa-mentioned-by:end -->
 

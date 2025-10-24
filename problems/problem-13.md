@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "13. Авиаперелёты"
-permalink: /dsa-notes/problems/problem-13/
+permalink: /oi-notes/problems/problem-13/
 lang: ru
 contest: bp2025-dfs1
 problem_code: M
@@ -49,7 +49,7 @@ avia.in                avia.out
 ### Mentioned by
 
 <!-- dsa-mentioned-by:start -->
-- [DFS1 — параллель B'](/dsa-notes/bp2025/contests/dfs1/){: .dsa-mention } — M: 13. Авиаперелёты
-- [Каталог задач](/dsa-notes/problems/){: .dsa-mention } — M: 13. Авиаперелёты
+- [DFS1 — параллель B'](../../../bp2025/contests/dfs1/){: .dsa-mention } — M: 13. Авиаперелёты
+- [Каталог задач](../../../problems/){: .dsa-mention } — M: 13. Авиаперелёты
 <!-- dsa-mentioned-by:end -->
 

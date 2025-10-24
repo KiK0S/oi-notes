@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "7. Есть ли цикл?"
-permalink: /dsa-notes/problems/problem-7/
+permalink: /oi-notes/problems/problem-7/
 lang: ru
 contest: bp2025-dfs1
 problem_code: G
@@ -51,7 +51,7 @@ problem_id: 7
 ### Mentioned by
 
 <!-- dsa-mentioned-by:start -->
-- [DFS1 — параллель B'](/dsa-notes/bp2025/contests/dfs1/){: .dsa-mention } — G: 7. Есть ли цикл?
-- [Каталог задач](/dsa-notes/problems/){: .dsa-mention } — G: 7. Есть ли цикл?
+- [DFS1 — параллель B'](../../../bp2025/contests/dfs1/){: .dsa-mention } — G: 7. Есть ли цикл?
+- [Каталог задач](../../../problems/){: .dsa-mention } — G: 7. Есть ли цикл?
 <!-- dsa-mentioned-by:end -->
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "9. Проверка топологической сортировки"
-permalink: /dsa-notes/problems/problem-9/
+permalink: /oi-notes/problems/problem-9/
 lang: ru
 contest: bp2025-dfs1
 problem_code: I
@@ -53,7 +53,7 @@ problem_id: 9
 ### Mentioned by
 
 <!-- dsa-mentioned-by:start -->
-- [DFS1 — параллель B'](/dsa-notes/bp2025/contests/dfs1/){: .dsa-mention } — I: 9. Проверка топологической сортировки
-- [Каталог задач](/dsa-notes/problems/){: .dsa-mention } — I: 9. Проверка топологической сортировки
+- [DFS1 — параллель B'](../../../bp2025/contests/dfs1/){: .dsa-mention } — I: 9. Проверка топологической сортировки
+- [Каталог задач](../../../problems/){: .dsa-mention } — I: 9. Проверка топологической сортировки
 <!-- dsa-mentioned-by:end -->
 

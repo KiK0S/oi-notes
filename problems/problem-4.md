@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "4. Отбой"
-permalink: /dsa-notes/problems/problem-4/
+permalink: /oi-notes/problems/problem-4/
 lang: ru
 contest: bp2025-dfs1
 problem_code: D
@@ -51,7 +51,7 @@ problem_id: 4
 ### Mentioned by
 
 <!-- dsa-mentioned-by:start -->
-- [DFS1 — параллель B'](/dsa-notes/bp2025/contests/dfs1/){: .dsa-mention } — D: 4. Отбой
-- [Каталог задач](/dsa-notes/problems/){: .dsa-mention } — D: 4. Отбой
+- [DFS1 — параллель B'](../../../bp2025/contests/dfs1/){: .dsa-mention } — D: 4. Отбой
+- [Каталог задач](../../../problems/){: .dsa-mention } — D: 4. Отбой
 <!-- dsa-mentioned-by:end -->
 

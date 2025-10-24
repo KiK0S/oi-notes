@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Шаблон задачи"
-permalink: /dsa-notes/problems/id/
+permalink: /oi-notes/problems/id/
 lang: ru
 ---
 

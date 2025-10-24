@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "3. Долой списывание!"
-permalink: /dsa-notes/problems/problem-3/
+permalink: /oi-notes/problems/problem-3/
 lang: ru
 contest: bp2025-dfs1
 problem_code: C
@@ -45,7 +45,7 @@ problem_id: 3
 ### Mentioned by
 
 <!-- dsa-mentioned-by:start -->
-- [DFS1 — параллель B'](/dsa-notes/bp2025/contests/dfs1/){: .dsa-mention } — C: 3. Долой списывание!
-- [Каталог задач](/dsa-notes/problems/){: .dsa-mention } — C: 3. Долой списывание!
+- [DFS1 — параллель B'](../../../bp2025/contests/dfs1/){: .dsa-mention } — C: 3. Долой списывание!
+- [Каталог задач](../../../problems/){: .dsa-mention } — C: 3. Долой списывание!
 <!-- dsa-mentioned-by:end -->
 
